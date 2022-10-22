@@ -4,7 +4,7 @@
 
 # 显卡：RX6600
 
-OpenCore 0.8.4 版本
+OpenCore 0.8.5 版本
 
 蓝牙，WIFI 休眠  目前没有任何问题。
 
